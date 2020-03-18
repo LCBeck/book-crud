@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from 'express';
-import Books from '../models/book';  
+import Books from '../models/book';
 
 export class BookRoute {
 
